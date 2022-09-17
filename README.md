@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @keijiek.
-- 👀 I’m interested in GameDevelopment with Electron.
+- 👀 I’m interested in GameDevelopment with TypeScript with Electron.
 - 🌱 I’m currently learning JavaScript and TypeScript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
