@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @keijiek.
-- 👀 I’m interested in game-development and web-design.
-- 🌱 I’m currently learning JavaScript and TypeScript, webpack5, html and css(scss), php, sql, apache, vscode.
+- 👀 I’m interested in Web-Design and Desktop-Application-Development(e.g. game development).
+- 🌱 I’m currently learning JavaScript and TypeScript, webpack, html and css(scss), php, sql, apache, vscode.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
