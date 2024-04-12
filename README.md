@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @keijiek.
 - 👀 I’m interested in Web-Design and Desktop-Application-Development(e.g. game development).
-- 🌱 I’m currently learning JavaScript and TypeScript, webpack, html and css(scss), php, sql, apache, vscode.
+- 🌱 I’m currently learning JS(TS), Astro, React, Tailwind, PHP, SQL, WordPress, Sass, Bootstrap, Java, C#, Unity.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
